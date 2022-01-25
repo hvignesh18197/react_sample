@@ -1,5 +1,5 @@
 const intialState = {
-  noOfChoclate: 10,
+  noOfChoclate: 0,
 };
 
 const ChoclateReducer = (state = intialState, action) => {
